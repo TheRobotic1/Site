@@ -4,6 +4,3 @@ body {
 #red {
 	color: red;
 }
-.siteTitle {
-	color: rgb(154, 241, 14);
-}
